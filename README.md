@@ -210,8 +210,6 @@ This project is licensed under the MIT License - see the [LICENSE.MD](LICENSE.MD
 - ⚙️ Moved action buttons to Settings tab
 - 🐛 Fixed dialog button styling
 - 🔧 Enhanced transparency handling for images
-- 🏷️ Renamed project from SleepyPenguin to Lino-ST
-- 📄 Hardcoded MIT license in application
 - 📚 Updated help documentation with new features
 
 ### Version 0.1
@@ -225,8 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE.MD](LICENSE.MD
 If you encounter any issues or have suggestions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Search existing [GitHub Issues](https://github.com/yourusername/Lino-ST-Sleep-Tracker/issues)
-3. Create a new issue with detailed information
+2. Create a new issue with detailed information
 
 ## Acknowledgments
 
