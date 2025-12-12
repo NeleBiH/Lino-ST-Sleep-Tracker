@@ -2,10 +2,9 @@
 
 A modern, cross-platform sleep tracking application built with PySide6 that monitors and records sounds while you sleep.
 
-
-<img width="797" height="826" alt="settings" src="https://github.com/user-attachments/assets/28c2252d-80dd-4970-84cc-65921ca8fd55" />
 <img width="797" height="826" alt="main" src="https://github.com/user-attachments/assets/6de1e50f-743b-46f1-ace8-a02f52200a15" />
 <img width="797" height="826" alt="history" src="https://github.com/user-attachments/assets/9b787cde-cac4-4fdf-928f-a5575a7e3d86" />
+<img width="797" height="826" alt="settings" src="https://github.com/user-attachments/assets/28c2252d-80dd-4970-84cc-65921ca8fd55" />
 
 # Lino-ST Sleep Tracker
 -------------------------------------------------------------------------------------------------------------------------------------------------
